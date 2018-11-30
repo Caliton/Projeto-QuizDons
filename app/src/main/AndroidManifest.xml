@@ -19,5 +19,5 @@
         <activity android:name=".QuizActivity" />
         <activity android:name=".TelaResultado"></activity>
     </application>
-
+<!-- sdfksdfj -->
 </manifest>
